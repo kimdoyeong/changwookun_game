@@ -1,6 +1,3 @@
 Debug/
-Changwoo.vcxproj
-Changwoo.vcxproj
-Changwoo.opensdf
-Changwoo.vcxproj.filters
-Changwoo.sdf
+*.opendb
+*.VC.opendb
