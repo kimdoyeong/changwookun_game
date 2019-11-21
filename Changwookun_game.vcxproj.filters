@@ -18,6 +18,9 @@
     <ClInclude Include="script.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="ending.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
@@ -31,6 +34,9 @@
     <Text Include="script.txt">
       <Filter>리소스 파일</Filter>
     </Text>
+    <Text Include="ending.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore">
@@ -38,6 +44,9 @@
     </None>
     <None Include="README.md">
       <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="ending.c">
+      <Filter>소스 파일</Filter>
     </None>
   </ItemGroup>
 </Project>

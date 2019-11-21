@@ -1,3 +1,4 @@
 void loadScript();
-char* getSpeaker();
 void scriptNext();
+int hasNext();
+int printChoices();

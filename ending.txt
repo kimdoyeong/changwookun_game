@@ -1,0 +1,7 @@
+[ENDING 1: HAPPY END]
+(>= 20)
+대충 엔딩
+
+[ENDING 2: BAD END]
+(<= -20)
+배드 엔딩

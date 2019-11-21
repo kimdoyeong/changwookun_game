@@ -1,6 +1,15 @@
 #include <stdio.h>
-#include "script.h";
+#include "script.h"
+#include "ending.h"
+
  int main() {
 	 loadScript();
-	 scriptNext();
+	 //initEnding();
+	 while (hasNext()) {
+		 system("cls");
+		 scriptNext();
+		 printChoices();
+		 getch();
+		 
+	 }
 }
